@@ -4,11 +4,16 @@
 
 
 <div align="center">
-<a href="https://github.com/claysfx">
-  <img align="center" height="150" width = "350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claysfx&layout=compact&langs_count=7&theme=dark" alt="claysfx github stats"/> </a>
 
 <a href="https://github.com/claysfx">
  <img align="center" height="150" width = "350" src="https://github-readme-stats.vercel.app/api?username=claysfx&show_icons=true&theme=dark" alt="claysfx github stats"/> </a>
+  
+  
+
+  
+
+<a href="https://github.com/claysfx">
+  <img align="center" height="150" width = "350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claysfx&layout=compact&langs_count=7&theme=dark" alt="claysfx github stats"/> </a>
 
 <br><br>
   
