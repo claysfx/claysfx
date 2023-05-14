@@ -1,16 +1,17 @@
-### Hi there 👋
+## opa dev, suave?
 
-<!--
-**claysfx/claysfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=claysfx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claysfx&layout=compact&langs_count=16&theme=github_dark"/>
+</div>
+<br>
 
-Here are some ideas to get you started:
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <h1 align="center"></h1>
+    <img align="center" height="30" width="30" alt="python-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+    <img align="center" height="30" width="30" alt="c-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+   </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
