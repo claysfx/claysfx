@@ -3,10 +3,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=claysfx&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claysfx&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-# 💻 linguagens atuais:
+## 💻 linguagens atuais:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# 💻 ferramentas:
+## 💻 ferramentas:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ## 🌐 social:
