@@ -8,28 +8,12 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="left">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">um pouco sobre clay:</h2></summary>
-  </ul>
-</div>
-
-
 <!--Intro start-->
 - :desktop_computer: Atualmente, programo em **Python e C**
 
-- :construction: Normalmente, tô aprendendo algo novo
+- :construction: Normalmente tô aprendendo algo novo
 
-- :man_technologist: Pretendo seguir a carreira de **Datascience ou IA**
+- :man_technologist: Pretendo seguir a carreira de **Data Science ou IA**
 
 - :car: Misturo design gráfico e paixão por carros na [VIRTUAL13](https://www.instagram.com/virtual13_garage/)
 
