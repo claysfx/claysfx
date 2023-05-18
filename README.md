@@ -1,12 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">opa dev, suave?</h1></summary>
-  </ul>
-</div>
+# opa dev, suave?
 
 <!--Intro start-->
 - :desktop_computer: Atualmente, programo em **Python e C**
@@ -46,13 +41,8 @@
 </p>        
 <!--- stats (end) -->
 
+# TECNOLOGIAS
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">TECNOLOGIAS</h2></summary>
-  </ul>
-</div>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -60,14 +50,7 @@
   </a>
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">SOCIAL</h2></summary>
-  </ul>
-</div>
+# SOCIAL
 
 <!--icons and links-->
 <p align="left">
