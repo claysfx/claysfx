@@ -10,7 +10,7 @@
 
 - :man_technologist: Pretendo seguir a carreira de **Data Science ou IA**
 
-- :car: Misturo design gráfico e paixão por carros na [VIRTUAL13](https://www.instagram.com/virtual13_garage/)
+- :car: Misturo design e paixão por carros na [VIRTUAL13](https://www.instagram.com/virtual13_garage/)
 
 - :calling: Contato: **juniorcleydson@hotmail.com**
 <!--Intro end-->
