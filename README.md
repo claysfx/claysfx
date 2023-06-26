@@ -6,9 +6,9 @@
 <!--Intro start-->
 - :desktop_computer: Atualmente, programo em **Python e C**
 
-- :construction: Normalmente tô aprendendo algo novo
+- :construction: Sempre aprendendendo algo novo
 
-- :man_technologist: Pretendo seguir a carreira de **Data Science ou IA**
+- :man_technologist: Futuro **Analista/Engenheiro/Cientista de dados**
 
 - :car: Misturo design e paixão por carros na [VIRTUAL13](https://www.instagram.com/virtual13_garage/)
 
